@@ -8,7 +8,7 @@ That's it, it's a binary tree. You know em.
 
 <h2>Commands</h2>
 <b>Everytime i say "node" i mean the node that is being pointed to by the pointer.</b><br>
-<b>(also if i ever use a comma, it means that i'm talking about multiple instructions in one table cell!</b>
+<b>(also if i ever use a comma, it means that i'm talking about multiple instructions in one table cell!)</b>
 <table>
   <tr>
     <th>COMMAND</th>
