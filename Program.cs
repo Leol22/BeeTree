@@ -236,4 +236,8 @@ while (active)
         }
     }
     step++;
+    if (step == code.Length)
+    {
+        step = 0;
+    }
 }
